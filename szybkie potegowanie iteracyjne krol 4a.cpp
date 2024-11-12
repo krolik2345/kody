@@ -18,7 +18,7 @@ int szybkiePotegowanie(int a, int n) {
         n = n / 2;
     }
 
-    // Zwracamy wynik
+
     return wynik;
 }
 
